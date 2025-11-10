@@ -1,6 +1,6 @@
-# 懸浮球 Hook 框架
+# 加速懸浮球小項目
 
-本項目實現了一個基於 **Java + Smali + Native (C++)** 的懸浮球功能，並通過 **DobbyHook** 在 Native 層面對 Cocos2d-lua 和 Cocos2d-js 引擎進行精準 Hook。
+本項目實現了一個基於 **Java + Smali + Native (C++)** 的懸浮球功能，並通過 **DobbyHook** 在 Native 層面對 Cocos2d-lua 和 Cocos2d-js 引擎進行精準 Hook，從而對游戲實現變速效果。
 
 ---
 
